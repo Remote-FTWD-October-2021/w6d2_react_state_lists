@@ -1,7 +1,7 @@
 
 .Animal {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border: 1px solid black;
   border-radius: 5px;
   display: flex;
@@ -10,4 +10,12 @@
   align-items: center;
   -webkit-box-shadow: 7px 7px 13px 1px rgba(0,0,0,0.41); 
   box-shadow: 7px 7px 13px 1px rgba(0,0,0,0.41);
+}
+
+.red {
+  background-color: tomato;
+}
+
+.blue {
+  background-color: aqua;
 }
